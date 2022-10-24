@@ -1,0 +1,1 @@
+web: gunicorn muziekreviews.wsgi --log-file -
